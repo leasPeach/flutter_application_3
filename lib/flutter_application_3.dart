@@ -1,4 +1,3 @@
-library flutter_application_3;
 
 /// A Calculator.
 class Calculator {
